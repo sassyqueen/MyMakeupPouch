@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">My Makeup Pouch</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <!--<string name="search">Search A Product Online</string>-->
+    <string name="aboutText">
+        My Makeup Pouch is an application for girls to organise their makeup. It helps them to see what products they own and have and the expiry dates of the product.
+
+
+        \n \n Thank you for your support and I hope you enjoy and find this application useful in your everyday use.
+
+
+        \n \n Credits to Freepik by www.flaticon.com and iconfinder.com for the icons in my application.
+    </string>
+    <string-array name="spinnerItem">
+        <item>Expiry Date</item>
+        <item>Period After Opening (in months)</item>
+    </string-array>
+    <string-array name="toolArray">
+        <item>Recently Cleaned</item>
+    </string-array>
+    <string name="lipstick">lipstickcat.txt</string>
+    <string name="facemakeup">facemakeup.txt</string>
+    <string name="eyemakeup">eyemakeup.txt</string>
+    <string name="skincare">skincare.txt</string>
+    <string name="tools">tools.txt</string>
+    <!--choice options-->
+    <string name="c0">Expiry Date</string>
+    <string name="c1">Period After Opening (in months)</string>
+    <string name="c2">Recently Cleaned</string>
+
+    <!--<string-array name="spinnerSearchType">-->
+        <!--<item>Blush</item>-->
+        <!--<item>Bronzer</item>-->
+        <!--<item>Eyebrow</item>-->
+        <!--<item>Eyeliner</item>-->
+        <!--<item>Eyeshadow</item>-->
+        <!--<item>Foundation</item>-->
+        <!--<item>Lip Liner</item>-->
+        <!--<item>Lipstick</item>-->
+        <!--<item>Mascara</item>-->
+    <!--</string-array>-->
+</resources>
